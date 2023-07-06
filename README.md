@@ -2,4 +2,8 @@
 
       Здесь какое-то описание
 
+<<<<<<< HEAD
 ## My super project
+=======
+## New project
+>>>>>>> main
